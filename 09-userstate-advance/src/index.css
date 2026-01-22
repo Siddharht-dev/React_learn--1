@@ -1,0 +1,21 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: black;
+  color: white;
+  margin: 40px 40px;
+}
+
+button{
+  margin: 30px 30px;
+  padding: 20px 30px;
+  font-size: 50px;
+}
+
+h1{
+  margin: 30px 30px;
+  padding: 20px 30px;
+  font-size: 70px;
+}
+
